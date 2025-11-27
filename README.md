@@ -16,6 +16,8 @@ npm start
 * answers — массив с ответами пользователя
 * done — флаг завершения опроса
 
+Вывод: на этой контрольной работе я разработал React-приложение с мини-опросом, который состоит из простых популярных вопросов. В ходе работы я закрепил базовые навыки работы с React.
+
 Скрины работы приложения:
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c450dd9a-50b9-49af-bf02-8046ba84d4d5" />
@@ -25,5 +27,3 @@ npm start
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/03feb139-bbc0-46ce-89fd-e36303d3456d" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/43507bdb-c15a-462e-9f4d-a0c447aca397" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/f4e28645-fb91-4d32-9118-dc31ec547cfa" />
-
-Вывод: на этой контрольной работе я разработал React-приложение с мини-опросом, которйы состоит из простых популярных вопросов. В ходе работы я закрепил базовые навыки работы с React.
