@@ -1,3 +1,5 @@
+Дворников Матвей Дмитриевич, ЭФБО-07-24
+
 Билд проекта:
 ```
 git clone https://github.com/matv3ykaa/mini_quiz_app
